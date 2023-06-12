@@ -1,7 +1,7 @@
 # Hi there 👋
 ## We Are Crill Game Studio
 ### Here are our URL Store:
-Goolge Play: https://play.google.com/store/apps/dev?id=7617162782209143062&hl=en&gl=US ( <br> )
+Goolge Play: https://play.google.com/store/apps/dev?id=7617162782209143062&hl=en&gl=US <br>
 App Store: 
 <!--
 
