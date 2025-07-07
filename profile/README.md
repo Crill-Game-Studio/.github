@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Engine-Unity-black?logo=unity&style=flat-square" />
   <img src="https://img.shields.io/badge/Platform-Mobile-blue?style=flat-square&logo=android" />
-  <img src="https://img.shields.io/badge/Scripting-Lua-green?style=flat-square&logo=lua" />
   <img src="https://img.shields.io/badge/Genre-Hyper--Casual%20%7C%20Arcade%20%7C%20Puzzle-orange?style=flat-square" />
 </p>
 
